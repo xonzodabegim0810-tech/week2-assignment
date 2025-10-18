@@ -1,3 +1,5 @@
+#Extra exercise 
+#For learning, not assignment
 print("--- Specific Requirements ---")
 print("-First item-")
 name1 = input("Item name: ")
